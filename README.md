@@ -245,18 +245,4 @@ Occasional Supabase connection timeouts may occur due to:
 
 The application handles these gracefully with retries.
 
-## 📝 License
-
-MIT
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📧 Support
-
-For issues or questions, please open an issue on GitHub.
-
----
-
 **Built with ❤️ using Next.js, Supabase, and Google Gemini**
